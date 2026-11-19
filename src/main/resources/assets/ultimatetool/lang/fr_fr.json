@@ -1,0 +1,37 @@
+{
+  "item.ultimatetool.ultimate_tool": "Outil Ultime",
+  "itemGroup.ultimatetool.ultimate_tool_tab": "Outil Ultime",
+  "item.ultimatetool.repair_core_25": "Noyau de réparation 25 %",
+  "item.ultimatetool.repair_core_100": "Noyau de réparation 100 %",
+  "item.ultimatetool.ultimate_tool_core": "Noyau de l'Outil Ultime",
+
+  "ultimatetool.tooltip.level": "Niveau %s",
+  "ultimatetool.tooltip.progress": "Progression : %s / %s",
+  "ultimatetool.tooltip.progress_max": "Progression : MAX",
+  "ultimatetool.tooltip.efficiency": "Efficacité %s",
+  "ultimatetool.tooltip.fortune": "Fortune %s",
+  "ultimatetool.tooltip.blocks_mined": "Blocs minés : %s",
+  "ultimatetool.tooltip.durability": "Durabilité : %s / %s",
+  "ultimatetool.tooltip.mining_mode": "Mode de minage : %s",
+  "ultimatetool.tooltip.ultimate": "⚡ ULTIMATE",
+  "ultimatetool.tooltip.ultimate_description": "Sphère de destruction",
+  "ultimatetool.tooltip.ultimate_radius": "Rayon : %s blocs",
+  "ultimatetool.tooltip.ultimate_cooldown": "Temps de recharge : %s minutes",
+  "ultimatetool.tooltip.ultimate_cost": "Coût : %s durabilité",
+  "ultimatetool.message.level_up": "⚡ L'Outil Ultime passe au niveau %s !",
+
+  "ultimatetool.message.hold_tool": "Tu dois tenir l'Outil Ultime en main.",
+  "ultimatetool.message.area_level_required": "Le changement 3×3 / 5×5 est disponible au niveau 6.",
+  "ultimatetool.message.mining_mode": "Mode de minage : %s",
+  "ultimatetool.message.durability_max": "La durabilité est déjà au maximum !",
+  "ultimatetool.message.repaired": "Outil réparé : %s / %s",
+  "ultimatetool.tooltip.repair_core_25": "Restaure 25 % de la durabilité maximale",
+  "ultimatetool.tooltip.repair_core_100": "Restaure entièrement la durabilité",
+  "ultimatetool.tooltip.ultimate_tool_core": "Noyau utilisé pour créer l'Outil Ultime",
+  "ultimatetool.message.ultimate_cooldown": "Outil Ultime - Temps de recharge : %s min %s s",
+  "ultimatetool.message.ultimate_insufficient_durability": "Outil Ultime - Pas assez de durabilité pour l'Ultimate",
+  "ultimatetool.message.no_durability": "Outil Ultime - Plus de durabilité !",
+
+  "ultimatetool.message.ultimate_enabled": "Capacité Ultimate activée.",
+  "ultimatetool.message.ultimate_disabled": "Capacité Ultimate désactivée."
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CCC",
+    "CDC",
+    "CCC"
+  ],
+  "key": {
+    "C": "minecraft:cobblestone",
+    "D": "minecraft:diamond"
+  },
+  "result": {
+    "id": "ultimatetool:repair_core_25",
+    "count": 1
+  }
+}

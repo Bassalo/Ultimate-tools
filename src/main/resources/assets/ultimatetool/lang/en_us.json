@@ -1,0 +1,37 @@
+{
+  "item.ultimatetool.ultimate_tool": "Ultimate Tool",
+  "itemGroup.ultimatetool.ultimate_tool_tab": "Ultimate Tool",
+  "item.ultimatetool.repair_core_25": "Repair Core 25%",
+  "item.ultimatetool.repair_core_100": "Repair Core 100%",
+  "item.ultimatetool.ultimate_tool_core": "Ultimate Tool Core",
+
+  "ultimatetool.tooltip.level": "Level %s",
+  "ultimatetool.tooltip.progress": "Progress: %s / %s",
+  "ultimatetool.tooltip.progress_max": "Progress: MAX",
+  "ultimatetool.tooltip.efficiency": "Efficiency %s",
+  "ultimatetool.tooltip.fortune": "Fortune %s",
+  "ultimatetool.tooltip.blocks_mined": "Blocks mined: %s",
+  "ultimatetool.tooltip.durability": "Durability: %s / %s",
+  "ultimatetool.tooltip.mining_mode": "Mining mode: %s",
+  "ultimatetool.tooltip.ultimate": "⚡ ULTIMATE",
+  "ultimatetool.tooltip.ultimate_description": "Destruction sphere",
+  "ultimatetool.tooltip.ultimate_radius": "Radius: %s blocks",
+  "ultimatetool.tooltip.ultimate_cooldown": "Cooldown: %s minutes",
+  "ultimatetool.tooltip.ultimate_cost": "Cost: %s durability",
+  "ultimatetool.message.level_up": "⚡ Ultimate Tool upgraded to level %s!",
+
+  "ultimatetool.message.hold_tool": "You must hold the Ultimate Tool.",
+  "ultimatetool.message.area_level_required": "The 3×3 / 5×5 switch is available at level 6.",
+  "ultimatetool.message.mining_mode": "Mining mode: %s",
+  "ultimatetool.message.durability_max": "Durability is already at maximum!",
+  "ultimatetool.message.repaired": "Tool repaired: %s / %s",
+  "ultimatetool.tooltip.repair_core_25": "Restores 25% of maximum durability",
+  "ultimatetool.tooltip.repair_core_100": "Fully restores durability",
+  "ultimatetool.tooltip.ultimate_tool_core": "Core used to create the Ultimate Tool",
+  "ultimatetool.message.ultimate_cooldown": "Ultimate Tool - Cooldown: %s min %s sec",
+  "ultimatetool.message.ultimate_insufficient_durability": "Ultimate Tool - Not enough durability for the Ultimate",
+  "ultimatetool.message.no_durability": "Ultimate Tool - No durability left!",
+
+  "ultimatetool.message.ultimate_enabled": "Ultimate ability enabled.",
+  "ultimatetool.message.ultimate_disabled": "Ultimate ability disabled."
+}

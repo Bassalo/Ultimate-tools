@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "NCN",
+    " S ",
+    " S "
+  ],
+  "key": {
+    "N": "minecraft:netherite_ingot",
+    "C": "ultimatetool:ultimate_tool_core",
+    "S": "minecraft:stick"
+  },
+  "result": {
+    "id": "ultimatetool:ultimate_tool",
+    "count": 1
+  }
+}
